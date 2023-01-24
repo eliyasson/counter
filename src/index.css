@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: rgb(0, 255, 255);
+}
+h2 {
+  font-size: 36px;
+}
+.btn {
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  left: 70px;
+  cursor: pointer;
+  font-size: large;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
